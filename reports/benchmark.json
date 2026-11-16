@@ -1,0 +1,267 @@
+{
+  "fixtures": 40,
+  "supported_rename_fixtures": 24,
+  "repaired_and_validated": 24,
+  "passing_consumer_examples": 120,
+  "unsupported_fixtures": 16,
+  "correct_abstentions": 16,
+  "unsafe_acceptances": 0,
+  "elapsed_ms": 10.904,
+  "records": [
+    {
+      "fixture": 1000,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1001,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1002,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1003,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1004,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1005,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1006,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1007,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1008,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1009,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1010,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1011,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1012,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1013,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1014,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1015,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1016,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1017,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1018,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1019,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1020,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1021,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1022,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1023,
+      "kind": "rename",
+      "status": "candidate",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1024,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1025,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1026,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1027,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1028,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1029,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1030,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1031,
+      "kind": "type_change",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1032,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1033,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1034,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1035,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1036,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1037,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1038,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    },
+    {
+      "fixture": 1039,
+      "kind": "removed",
+      "status": "abstained",
+      "expected_behavior": true
+    }
+  ],
+  "scope_note": "Generated fixture family with held-out field identifiers, not independently sourced real repositories. Deterministic codemod, no LLM execution.",
+  "environment": {
+    "python": "3.13.5",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel"
+  },
+  "generated_at_utc": "2026-11-16T16:53:18.887573+00:00",
+  "scope": "Synthetic local benchmark, not production traffic or independent validation.",
+  "source_sha256": {
+    "app.py": "9e17d7cf1ae5cc48dc1d6dfbb26ec86089c1db6929541546a2a9682206724f68",
+    "benchmark.py": "a97af3cea174ab59f801206510a3f4722e368221f441222131ee3750e0309e91",
+    "core.py": "63b3c737fda2d1aecb82b975ddc961caa1e3f3c5a5c37e3895c0f4416b7458de",
+    "reporting.py": "b2ef02372026ec29643294d9cb7d96a4ede3dc780bf41972e35e02d9c0e136b9",
+    "ui.py": "e48984f498191a74d681f81c7dcb45ba6de3e878cf1c8df5bb92696ff754583d"
+  }
+}
